@@ -119,4 +119,4 @@ for u in usines:
         )
 
 print("\nCoût total minimal =",
-      value(prob.objective))
+      value(prob.objective))                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
