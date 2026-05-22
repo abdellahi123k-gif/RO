@@ -109,7 +109,6 @@ print("RÉSULTATS")
 print("============================\n")
 
 print("Status :", LpStatus[prob.status])
-
 print("\nQuantités transportées :\n")
 
 for u in usines:
